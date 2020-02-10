@@ -1,0 +1,12 @@
+Variable name,
+EventId,Unique ID of the incident
+Occurrence Local Date Time,"Time incident occurred, Central African Time. "
+Reporting Agency,How was the incident reported or recognised
+Cause,Incident type
+Subcause,More information about the cause
+Status,Closed or open
+longitude,Lon and lat of the incident
+latitude,
+road_segment_id,Segment of the road where the incident took place.
+isAccident,True or False
+isPedestrian,True or False
